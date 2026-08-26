@@ -1,20 +1,17 @@
 header{
-   background-color: rgb(8, 38, 189);
-   color: rgb(247, 245, 236);
+   background-color: rgb(2, 17, 39);
+   color:rgb(243, 248, 248);
    text-align: center;
    max-width: 800px;
    margin: 0 auto;
 }
-.artigo-autor {
-   font-weight: bold;
-}
-main {
-   background-color: rgb(8, 67, 126);
-   color: rgb(234, 236, 253);
+main{
+   background-color: rgb(245, 241, 237);
+   color: rgb(8, 40, 180);
    text-align: center;
    max-width: 800px;
    margin: 0 auto;
-   border: 5px solid #30bd05;
+   border: 5px solid rgb(245, 241, 237);
    padding: 16px;
-   display: flex;
 }
+
